@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://trendybeatz.com/css/main-sitemap.xsl"?>
+
+
+
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     <sitemap>
+        <loc>https://trendybeatz.com</loc>
+        <lastmod>2024-09-29T02:48:17+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://trendybeatz.com/music-sitemap.xml</loc>
+        <lastmod>2024-09-29T02:48:17+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://trendybeatz.com/video-sitemap.xml</loc>
+       <lastmod>2024-09-29T02:48:17+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://trendybeatz.com/musicnews-sitemap.xml</loc>
+        <lastmod>2024-09-29T02:48:17+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://trendybeatz.com/dj-sitemap.xml</loc>
+        <lastmod>2024-09-29T02:48:17+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://trendybeatz.com/djmix-sitemap.xml</loc>
+        <lastmod>2024-09-29T02:48:17+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://trendybeatz.com/album-sitemap.xml</loc>
+        <lastmod>2024-09-29T02:48:17+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://trendybeatz.com/artists-sitemap.xml</loc>
+        <lastmod>2024-09-29T02:48:17+00:00</lastmod>
+    </sitemap>
+
+</sitemapindex>
